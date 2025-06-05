@@ -51,5 +51,5 @@ Welcome to my GitHub profile! I'm a curious learner and passionate tech enthusia
 
 <p align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshithalayout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshitha&layout=compact&theme=radical" />
 </p>
