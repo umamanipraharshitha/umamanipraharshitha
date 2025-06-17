@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a curious learner and passionate tech enthusia
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **Quiz Master** (Quiz Management System), and **LibStack**
-- 🌱 Learning: `Node.js` · `React` · `Data Science`
 - 🎓 Dual Degree Student:
   - 🧠 B.Tech in **CSE** @ **UCEK (JNTUK)**
   - 📊 B.S in **Data Science** @ **IIT Madras**
