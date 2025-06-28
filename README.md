@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a curious learner and passionate tech enthusia
 - 🎓 Dual Degree Student:
   - 🧠 B.Tech in **CSE** @ **UCEK (JNTUK)**
   - 📊 B.S in **Data Science** @ **IIT Madras**
+  - Backend team lead @**StellarGateway**- currently contributing to SkyBridge Project
 - 👀 Interests: Full-Stack Web Development · Python · Open Source
 - 🤝 Open to collaborating on: **Open Source Projects**, **College Tech Fests**, **Internships**
 
