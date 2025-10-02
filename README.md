@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/umamanipraharshitha/umamanipraharshitha/blob/main/githubcoverpage%20(1).jpg" width="100%" alt="Banner Image"/>
+  <img src="https://github.com/umamanipraharshitha/umamanipraharshitha/blob/main/WhatsApp%20Image%202025-10-02%20at%2019.37.05_95a4fee3.jpg" width="100%" alt="Banner Image"/>
 </p>
 # 👋 Hello there! I'm <span style="color:#FCA61F;">Praharshitha</span> 👨‍💻
 
