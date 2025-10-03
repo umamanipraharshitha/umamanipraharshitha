@@ -71,7 +71,7 @@ Here are a few of my favorite projects showcasing my skills and interests:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**CareerGuidance_Roadmap_Generator**](https://github.com/umamanipraharshitha/CareerGuidance_Roadmap_Generator) | 🧭 AI-integrated tool that generates personalized roadmaps for students based on career goals and interests. | Node Js · OpenAI API · HTML/CSS . Firebase |
+| [**CareerGuidance_Roadmap_Generator**](https://github.com/umamanipraharshitha/CareerGuidance_Roadmap_Generator) | 🧭 AI-integrated tool that generates personalized roadmaps for students based on career goals and interests. | Node Js · OpenAI API · React . Firebase |
 | [**WhatsApp_AI_Reminders**](https://github.com/umamanipraharshitha/whatsapp_ai_reminders) | 🤖 Smart assistant for scheduling, managing, and interacting with medication & task reminders on WhatsApp using **RAG**. | Node.js · Express · Gemini API · Firebase . CloudFlared . Twillo . Redis |
 | [**RAG-Based Multi-Modal QA & Summarization System**](https://github.com/umamanipraharshitha/RAG-Based-Multi-Modal-QA-Summarization-System) | 📄 AI-powered system that ingests text, PDFs, CSVs, and images to provide **context-aware answers and summaries**. | Python · Gemini API . sentence-transformers · ChromaDB |
 | [**LeafLytic**](https://github.com/umamanipraharshitha/LeafLytic) | 🌱 Deep learning-based web app that detects plant leaf diseases with **92% accuracy** for precision agriculture. | Python · HTML/CSS · DL Model( MobileNetV2) .PlantVillageDataset |
