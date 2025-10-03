@@ -14,8 +14,8 @@
 ## 📝 About Me  
 
 - 🎓 **Dual Degree Student**
-  - 🧠 B.Tech in **Computer Science & Engineering** @ **UCEK, JNTUK**  
-  - 📊 B.S in **Data Science** @ **IIT Madras**  
+  - 🧠 B.Tech in **Computer Science & Engineering** @ **UCEK, JNTUK**   with a CGPA of 9.2
+  - 📊 B.S in **Data Science** @ **IIT Madras** with a CGPA of 8
 - 🛠 **Backend Team Lead** at **StellarGateway** – contributing to the **SkyBridge Project**  
 - 👩‍💻 Passionate about **Web Development**, **Backend Engineering**, **Open Source**, **AI-powered Apps**  
 - 🤝 Open to collaborating on **Hackathons**, **Open Source Projects**, and **Internships**  
