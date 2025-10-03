@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FCA61F;">UMA MANI PRAHARSHITHA MANGIPUDI</span> 🚀</h1>
 
 <p align="center">
-  <b>Curious Learner • Tech Enthusiast • Open Source Contributor</b><br/>
+  <b>Curious Learner • AI and Tech Enthusiast • Full Stack Developer</b><br/>
   <em>“Exploring diverse domains of Computer Science to solve real-world problems.”</em>
 </p>
 
