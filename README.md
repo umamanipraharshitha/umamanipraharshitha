@@ -71,10 +71,10 @@ Here are a few of my favorite projects showcasing my skills and interests:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**CareerGuidance_Roadmap_Generator**](https://github.com/umamanipraharshitha/CareerGuidance_Roadmap_Generator) | 🧭 AI-integrated tool that generates personalized roadmaps for students based on career goals and interests. | Node Js · OpenAI API · React . Firebase |
+| [**CareerGuidance_Roadmap_Generator**](https://github.com/umamanipraharshitha/CareerGuidance_Roadmap_Generator) | 🧭 AI-integrated tool that generates personalized roadmaps for students based on career goals and interests. | React Js . Node Js · OpenAI API ·Firebase |
 | [**WhatsApp_AI_Reminders**](https://github.com/umamanipraharshitha/whatsapp_ai_reminders) | 🤖 Smart assistant for scheduling, managing, and interacting with medication & task reminders on WhatsApp using **RAG**. | Node.js · Express · Gemini API · VectorDB . CloudFlared . Twillo . Redis |
 | [**RAG-Based Multi-Modal QA & Summarization System**](https://github.com/umamanipraharshitha/RAG-Based-Multi-Modal-QA-Summarization-System) | 📄 AI-powered system that ingests text, PDFs, CSVs, and images to provide **context-aware answers and summaries**. | Python · Gemini API . sentence-transformers · ChromaDB |
-| [**LeafLytic**](https://github.com/umamanipraharshitha/LeafLytic) | 🌱 Deep learning-based web app that detects plant leaf diseases with **92% accuracy** for precision agriculture. | Python · HTML/CSS · DL Model( MobileNetV2) .PlantVillageDataset |
+| [**LeafLytic**](https://github.com/umamanipraharshitha/LeafLytic) | 🌱 Deep learning-based web app that detects plant leaf diseases with **92% accuracy** for precision agriculture. | HTML/CSS . Python · DL Model( MobileNetV2) .PlantVillageDataset |
 | [**WebScraperAI**](https://github.com/umamanipraharshitha/WebScraperAI) | 🌐 Python-based **competitive intelligence tool** for fetching targeted data from websites. | Python · BeautifulSoup · Requests |
 | [**Restaurant Management System**](https://github.com/umamanipraharshitha/Restaurant-Management-Aplication) | 📚 A modern, full-stack food booking and restaurant management web application. | HTML · CSS · JavaScript . Node JS. Express . MongoDB Atlas |
 | [**Parking Application**](https://github.com/umamanipraharshitha/24F1000289_MAD2_ParkingApp) | 📚 Developed to make parking slot booking seamless and efficient. | Vue Js · Flask · SQL . Node JS. Express . SQLlite . Redis . Celery|
