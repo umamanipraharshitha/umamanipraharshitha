@@ -85,11 +85,10 @@ Here are a few of my favorite projects showcasing my skills and interests:
 
 ## 🏆 Achievements  
 
-- 🎉 **Alpha Microsoft Learn Student Ambassador (MLSA)**  
-- 🚀 **Backend Lead at StellarGateway – SkyBridge Project**  
-- 🏅 Top-ranked Girl in **EAMCET 2023–27 Batch @ JNTUK**  
+
+- 🚀 **Backend Lead at StellarGateway – SkyBridge Project**    
 - 💻 Selected for **Codess.Cafe – Women in Tech Community**  
-- 📜 Qualified for **Tata Crucible Campus Quiz 2024**  
+- 📜 SheFi Scholar Cohort 13  
 - 🐙 GitHub Badge: **Pull Shark** 🦈  
 
 ---
