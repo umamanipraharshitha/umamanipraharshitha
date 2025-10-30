@@ -68,16 +68,18 @@
 
 Here are a few of my favorite projects showcasing my skills and interests:
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**CareerGuidance_Roadmap_Generator**](https://github.com/umamanipraharshitha/CareerGuidance_Roadmap_Generator) | 🧭 AI-integrated tool that generates personalized roadmaps for students based on career goals and interests. | React Js . Node Js · OpenAI API ·Firebase |
-| [**WhatsApp_AI_Reminders**](https://github.com/umamanipraharshitha/whatsapp_ai_reminders) | 🤖 Smart assistant for scheduling, managing, and interacting with medication & task reminders on WhatsApp using **RAG**. | Node.js · Express · Gemini API · VectorDB . CloudFlared . Twillo . Redis |
-| [**RAG-Based Multi-Modal QA & Summarization System**](https://github.com/umamanipraharshitha/RAG-Based-Multi-Modal-QA-Summarization-System) | 📄 AI-powered system that ingests text, PDFs, CSVs, to provide **context-aware answers and summaries**. | Python · Gemini API . sentence-transformers · ChromaDB |
-| [**LeafLytic**](https://github.com/umamanipraharshitha/LeafLytic) | 🌱 Deep learning-based web app that detects plant leaf diseases with **92% accuracy** for precision agriculture. | HTML/CSS . Python · DL Model( MobileNetV2) .PlantVillageDataset |
-| [**WebScraperAI**](https://github.com/umamanipraharshitha/WebScraperAI) | 🌐 Python-based **competitive intelligence tool** for fetching targeted data from websites. | Python · BeautifulSoup · Requests |
-| [**Restaurant Management System**](https://github.com/umamanipraharshitha/Restaurant-Management-Aplication) | 📚 A modern, full-stack food booking and restaurant management web application. | HTML · CSS · JavaScript . Node JS. Express . MongoDB Atlas |
-| [**Parking Application**](https://github.com/umamanipraharshitha/24F1000289_MAD2_ParkingApp) | 📚 Developed to make parking slot booking seamless and efficient. | Vue Js · Flask · SQL . Node JS. Express . SQLlite . Redis . Celery|
 
+| Project                                                                                                         | Description                                                                               | Tech Stack                                                                       |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [**AI Interview Automation Pipeline**](https://github.com/umamanipraharshitha/ai-interview-automation-pipeline) | Automates interviews using Gemini AI with transcript analysis and performance reports.    | Flutter · FastAPI · Gemini API · Firebase · Google Drive API · Google Sheets API |
+| [**Autonomous RL System Optimizer**](https://github.com/umamanipraharshitha/Autonomous-RL-System-Optimizer)     | Self-learning RL system for automated parameter tuning and live performance optimization. | Python · PyTorch · Flask · React.js · JSON · WebSocket                           |
+| [**CareerGuidance_Roadmap_Generator**](https://github.com/umamanipraharshitha/CareerGuidance_Roadmap_Generator) | Generates personalized learning and career roadmaps using AI-driven insights.             | React.js · Node.js · Express · Firebase · Gemini API                             |
+| [**WhatsApp_AI_Reminders**](https://github.com/umamanipraharshitha/whatsapp_ai_reminders)                       | AI WhatsApp bot for smart reminders, scheduling, and natural language interaction.        | Node.js · Express · Gemini API · Twilio API · Redis                              |
+| [**RAG-Based QA System**](https://github.com/umamanipraharshitha/RAG-Based-Multi-Modal-QA-Summarization-System) | Context-aware RAG model for Q&A and document summarization.                               | Python · Gemini API · ChromaDB · LangChain · Flask                               |
+| [**LeafLytic**](https://github.com/umamanipraharshitha/LeafLytic)                                               | Detects and classifies plant leaf diseases using deep learning.                           | Python · TensorFlow · MobileNetV2 · OpenCV                                       |
+| [**WebScraperAI**](https://github.com/umamanipraharshitha/WebScraperAI)                                         | Intelligent data scraper for structured web content extraction.                           | Python · BeautifulSoup · Pandas · Requests                                       |
+| [**Restaurant Management System**](https://github.com/umamanipraharshitha/Restaurant-Management-Aplication)     | Manages restaurant orders, menus, and reservations efficiently.                           | Node.js · Express · MongoDB · EJS · Bootstrap                                    |
+| [**Parking Application**](https://github.com/umamanipraharshitha/24F1000289_MAD2_ParkingApp)                    | Smart app for real-time parking slot booking and management.                              | Vue.js · Flask · SQLite · Redis                                                  |
 
 > 🟩 Explore all my repositories [here →](https://github.com/umamanipraharshitha?tab=repositories)
 
