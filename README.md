@@ -8,8 +8,9 @@
   <b>Curious Learner • AI and Tech Enthusiast • Full Stack Developer</b><br/>
   <em>“Exploring diverse domains of Computer Science to solve real-world problems.”</em>
 </p>
-
----https://praharshitha.onrender.com/
+<p align="center">
+https://praharshitha.onrender.com/
+</p>
 
 ## 📝 About Me  
 
