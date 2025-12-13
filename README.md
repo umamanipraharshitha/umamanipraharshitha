@@ -9,7 +9,7 @@
   <em>“Exploring diverse domains of Computer Science to solve real-world problems.”</em>
 </p>
 
----
+---https://praharshitha.onrender.com/
 
 ## 📝 About Me  
 
@@ -19,6 +19,7 @@
 - 👩‍💻 Passionate about **Web Development**, **Backend Engineering**, **Open Source**, **AI-powered Apps**  
 - 🤝 Open to collaborating on **Hackathons**, **Open Source Projects**, and **Internships**  
 - 🌱 Currently exploring **Cloud Integration**, **API Development**, **Generative AI Applications**
+- 
 
 📫 **Reach Me At:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/umamanipraharshitha)
