@@ -55,15 +55,7 @@ https://praharshitha.onrender.com/
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-6C63FF?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
-
-🛠️ **Tools & Others:**  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-🤖 **AI / ML (Currently Exploring):**  
+🤖 AI /ML (Currently Exploring)
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG%20Systems-0A66C2?style=for-the-badge&logo=semanticweb&logoColor=white"/>
@@ -72,6 +64,15 @@ https://praharshitha.onrender.com/
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Based%20Web%20Apps-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
+
+🛠️ **Tools & Others:**  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
 
 
 ---
