@@ -63,6 +63,16 @@ https://praharshitha.onrender.com/
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+🤖 **AI / ML (Currently Exploring):**  
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-0A66C2?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-1A1A1A?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Based%20Web%20Apps-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
 
 ---
 
