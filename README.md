@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://github.com/umamanipraharshitha/umamanipraharshitha/blob/main/WhatsApp%20Image%202025-10-02%20at%2019.37.05_95a4fee3.jpg" width="100%" alt="Banner Image"/>
 </p>
@@ -7,120 +5,127 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FCA61F;">UMA MANI PRAHARSHITHA MANGIPUDI</span> 🚀</h1>
 
 <p align="center">
-  <b>AI/ML & Full Stack Developer • Data Science BS • CodeChef 3★</b><br/>
-  <em>"Building intelligent systems that solve real-world problems through code and curiosity."</em>
+  <b>Curious Learner • AI and Tech Enthusiast • Full Stack Developer</b><br/>
+  <em>“Exploring diverse domains of Computer Science to solve real-world problems.”</em>
 </p>
+<p align="center">
+https://praharshitha.onrender.com/
+</p>
+
+## 📝 About Me  
+
+- 🎓 **Dual Degree Student**
+  - 🧠 B.Tech in **Computer Science & Engineering** @ **UCEK, JNTUK**   with a CGPA of 9.2
+  - 📊 B.S in **Data Science** @ **IIT Madras** with a CGPA of 8 
+- 👩‍💻 Passionate about **Web Development**, **Backend Engineering**, **Open Source**, **AI-powered Apps**  
+- 🤝 Open to collaborating on **Hackathons**, **Open Source Projects**, and **Internships**  
+- 🌱 Currently exploring **Cloud Integration**, **API Development**, **Generative AI Applications**
+- 
+
+📫 **Reach Me At:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/umamanipraharshitha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mpraharshitha2006@gmail.com)
+
+---
+
+## ⚙️ Tech Stack  
+
+💻 **Languages:**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+⚙️ **Frameworks & Libraries:**  
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+🗄️ **Databases & Cloud:**  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-6C63FF?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+🤖 AI /ML (Currently Exploring)
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-0A66C2?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-1A1A1A?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Based%20Web%20Apps-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+🛠️ **Tools & Others:**  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+
+
+---
+
+## 🌟 Featured Projects  
+
+Here are a few of my favorite projects showcasing my skills and interests:
+
+
+| Project                                                                                                         | Description                                                                               | Tech Stack                                                                       |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [**AI Interview Automation Pipeline**](https://github.com/umamanipraharshitha/ai-interview-automation-pipeline) | Automates interviews using Gemini AI with transcript analysis and performance reports.    | Flutter · FastAPI · Gemini API · Firebase · Google Drive API · Google Sheets API |
+| [**Autonomous RL System Optimizer**](https://github.com/umamanipraharshitha/Autonomous-RL-System-Optimizer)     | Self-learning RL system for automated parameter tuning and live performance optimization. | Python · PyTorch · Flask · React.js · JSON                           |
+| [**CareerGuidance_Roadmap_Generator**](https://github.com/umamanipraharshitha/CareerGuidance_Roadmap_Generator) | Generates personalized learning and career roadmaps using AI-driven insights.             | React.js · Node.js · Express · Firebase · Gemini API                             |
+| [**WhatsApp_AI_Reminders**](https://github.com/umamanipraharshitha/whatsapp_ai_reminders)                       | AI WhatsApp bot for smart reminders, scheduling, and natural language interaction.        | Node.js · Express · Gemini API · Twilio API · Redis                              |
+| [**RAG-Based QA System**](https://github.com/umamanipraharshitha/RAG-Based-Multi-Modal-QA-Summarization-System) | Context-aware RAG model for Q&A and document summarization.                               | Python · Gemini API · ChromaDB · LangChain · Flask                               |
+| [**LeafLytic**](https://github.com/umamanipraharshitha/LeafLytic)                                               | Detects and classifies plant leaf diseases using deep learning.                           | Python · TensorFlow · MobileNetV2 · OpenCV                                       |
+| [**WebScraperAI**](https://github.com/umamanipraharshitha/WebScraperAI)                                         | Intelligent data scraper for structured web content extraction.                           | Python · BeautifulSoup · Pandas · Requests                                       |
+| [**Restaurant Management System**](https://github.com/umamanipraharshitha/Restaurant-Management-Aplication)     | Manages restaurant orders, menus, and reservations efficiently.                           | Node.js · Express · MongoDB · EJS · Bootstrap                                    |
+| [**Parking Application**](https://github.com/umamanipraharshitha/24F1000289_MAD2_ParkingApp)                    | Smart app for real-time parking slot booking and management.                              | Vue.js · Flask · SQLite · Redis                                                  |
+
+> 🟩 Explore all my repositories [here →](https://github.com/umamanipraharshitha?tab=repositories)
+
+---
+
+## 🏆 Achievements  
+
+
+- 🚀 **Backend Lead at StellarGateway – SkyBridge Project**    
+- 💻 Selected for **Codess.Cafe – Women in Tech Community**  
+- 📜 SheFi Scholar Cohort 13  
+- 🐙 GitHub Badge: **Pull Shark** 🦈  
+
+---
+
+## 📈 GitHub Analytics  
 
 <p align="center">
-  <a href="https://praharshitha.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/umamanipraharshitha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mpraharshitha2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=umamanipraharshitha&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshitha&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
-## 🎯 Objective
+## 🚀 Fun Facts  
 
-**Aspiring SDE/ML Engineer** pursuing **B.Tech CSE (JNTUK, CGPA 9.2)** & **BS Data Science (IIT Madras, CGPA 8.0)**.  
-Expert in **end-to-end AI pipelines, full-stack apps**, and **competitive problem-solving**. Seeking internships to build production-grade systems.
+- 🌟 I love building **real-world solutions** that make an impact  
+- 🎨 Hobbies: **Drawing & Creative Designing**  
+- ☕ Thrives on **coffee, curiosity, and problem-solving**  
 
 ---
-
-## 📊 Quick Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umamanipraharshitha&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshitha&layout=compact&theme=radical&hide_border=true" width="40%"/>
+  💻 <b>“Code. Create. Collaborate. Contribute.”</b> 🚀
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umamanipraharshitha&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🎓 Education & Experience
-
-### **Education**
-| Degree | Institution | CGPA | Duration |
-|--------|-------------|------|----------|
-| **B.Tech CSE** | UCEK, JNTUK | **9.2/10** | 2023–2027 [memory:5] |
-| **BS Data Science** | IIT Madras | **8.0/10** | Ongoing [memory:5] |
-
-### **Experience**
-- **Infosys Springboard Full Stack Intern** (Sep–Nov 2024)  
-  Built **College Event Management Portal** (MERN + JWT auth) with team of 7 [web:16].
-- **Backend Lead – StellarGateway: SkyBridge** (Astronomy platform) [@StellarGateway] [memory:12].
-
----
-
-## ⚙️ Tech Stack & Skills
-
-### **Languages & Core**
-```
-Python -  JavaScript -  Java -  C -  SQL -  Dart
-DSA -  Git -  Postman -  VS Code -  Figma
-```
-
-### **Full Stack**
-```
-React -  Node.js -  Express -  Flask -  FastAPI -  MERN -  Firebase -  MongoDB -  MySQL -  SQLite -  Redis -  JWT -  Bootstrap -  Flutter
-```
-
-### **AI/ML & Automation**
-```
-RAG Systems -  Gemini API -  LangChain -  ChromaDB -  PyTorch -  TensorFlow -  MobileNetV2 -  n8n -  Twilio -  Google APIs
-```
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **RAG Multi-Modal QA** | PDF/Image/CSV ingestion → ChromaDB vectors → Gemini context-aware answers & summaries | Python • FastAPI • ChromaDB • Gemini • LangChain | [GitHub](https://github.com/umamanipraharshitha/RAG-Based-Multi-Modal-QA-Summarization-System) |
-| **AI Interview Pipeline** | End-to-end interview automation: resume scoring → Gemini analysis → Drive/Sheets reports | Flutter • FastAPI • Firebase • Gemini • Google APIs | [GitHub](https://github.com/umamanipraharshitha/ai-interview-automation-pipeline) |
-| **Career Roadmap AI** | Personalized career/learning paths for students (50+ users, CSP project) | React • Node • Firebase • Gemini | [GitHub](https://github.com/umamanipraharshitha/CareerGuidance_Roadmap_Generator) |
-| **WhatsApp AI Reminders** | Smart reminders + health Q&A via WhatsApp (RAG-powered) | Node • Express • Gemini • Twilio • Redis | [GitHub](https://github.com/umamanipraharshitha/whatsapp_ai_reminders) |
-| **College Events Portal** | Secure MERN app with JWT, role-based events (Infosys Internship) | MERN • MongoDB • JWT | [GitHub](https://github.com/umamanipraharshitha/College_event_management_infosys_project) |
-| **Autonomous RL Optimizer** | Real-time system monitoring & performance optimization via RL | Python • PyTorch • Flask • React | [GitHub](https://github.com/umamanipraharshitha/autonomous-rl-system-optimizer) [memory:2] |
-
-**👉 [All 28+ repos →](https://github.com/umamanipraharshitha?tab=repositories)**
-
----
-
-### **Academic & Honors**
-- **JEE Mains:** AIR **35,000** (97%) • **JEE Advanced Qualified** [memory:7]
-- **AP EAPCET:** Rank **1178** • **TS EAMCET:** **1161** [memory:7]
-- **Codess.Cafe Mentee** (top 2,000 applicants) • **SheFi Cohort 13 Scholar** [memory:7]
-- **GitHub Pull Shark** • **Club of Computer Engineers Rep** [memory:7]
-- **6+ Hackathons** (CelestialGallery, etc.) [web:18]
-
----
-
-## 📜 Certifications
-
-```
-🆕 Python for Data Analysis: Pandas & NumPy [1]
-🎓 IIT Madras: Data Science Foundation & Diploma
-🎓 NPTEL: DSA using Python
-🎓 edX: CS101
-🎓 Coursera: Python for Data Analysis [2]
-
-```
-
----
-
-## 🎨 Let's Connect!
-
-
-<p align="center">
-  <em>💻 "Code. Create. Collaborate. Contribute." 🚀</em>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umamanipraharshitha&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-```
 
