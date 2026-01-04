@@ -15,7 +15,7 @@
   <a href="https://praharshitha.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/umamanipraharshitha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mpraharshitha2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/bale_hawks_31"><img src="https://img.shields.io/badge/CodeChef-1663%20(3★)-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  
 </p>
 
 ---
