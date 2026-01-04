@@ -28,28 +28,14 @@ Expert in **end-to-end AI pipelines, full-stack apps**, and **competitive proble
 ---
 
 ## 📊 Quick Stats
+
 <p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=umamanipraharshitha&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats" 
-    width="48%" 
-  />
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshitha&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-    width="48%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=umamanipraharshitha&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshitha&layout=compact&theme=radical&hide_border=true" width="40%"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=umamanipraharshitha&theme=radical&hide_border=true" 
-    alt="GitHub Streak" 
-    width="60%" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umamanipraharshitha&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -137,5 +123,4 @@ RAG Systems -  Gemini API -  LangChain -  ChromaDB -  PyTorch -  TensorFlow -  M
   <img src="https://komarev.com/ghpvc/?username=umamanipraharshitha&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 ```
-
 
