@@ -108,14 +108,7 @@ Here are a few of my favorite projects showcasing my skills and interests:
 
 ---
 
-## 📈 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umamanipraharshitha&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshitha&layout=compact&theme=radical" height="165"/>
-</p>
-
----
 
 ## 🚀 Fun Facts  
 
