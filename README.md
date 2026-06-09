@@ -34,6 +34,11 @@
 
 ## 💼 Experience
 
+**Backend Team Lead @ StellarGateway — SkyBridge Project** *(Hackathon → Project Role)*
+- Earned the role through a **hackathon selection**; led the backend team for the SkyBridge Project
+- Integrated the **NASA API** with **Firebase** to deliver real-time space data to the application layer
+- Architected and managed backend services, coordinated team workflows, and drove end-to-end API pipeline development
+
 **Full Stack Developer Intern @ Infosys Springboard** *(Sep 2025 – Nov 2025)*
 - Built and deployed a **College Event Management Portal** using the MERN stack with JWT-based Role-Based Access Control (RBAC)
 - Designed RESTful APIs for event creation, user registration, participant tracking, and admin workflows
@@ -149,7 +154,27 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umamanipraharshitha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umamanipraharshitha&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshitha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umamanipraharshitha&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umamanipraharshitha&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+---
+
 <p align="center">
   💻 <b>"Code. Create. Collaborate. Contribute."</b> 🚀
 </p>
-
