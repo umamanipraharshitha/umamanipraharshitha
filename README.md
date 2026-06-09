@@ -158,9 +158,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshitha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umamanipraharshitha&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
