@@ -42,7 +42,7 @@
 **Full Stack Developer Intern @ Infosys Springboard** *(Sep 2025 – Nov 2025)*
 - Built and deployed a **College Event Management Portal** using the MERN stack with JWT-based Role-Based Access Control (RBAC)
 - Designed RESTful APIs for event creation, user registration, participant tracking, and admin workflows
-- Led backend API integration and MongoDB schema design; conducted end-to-end testing with Postman across the full SDLC
+- Involved in backend API integration and MongoDB schema design; conducted end-to-end testing with Postman across the full SDLC
 
 ---
 
