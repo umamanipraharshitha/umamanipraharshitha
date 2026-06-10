@@ -157,14 +157,15 @@
 ## 📊 GitHub Stats
 
 
-
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umamanipraharshitha&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umamanipraharshitha&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamanipraharshitha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umamanipraharshitha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <p align="center">
   💻 <b>"Code. Create. Collaborate. Contribute."</b> 🚀
 </p>
