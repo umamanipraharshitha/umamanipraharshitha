@@ -19,8 +19,8 @@
 ## 📝 About Me
 
 - 🎓 **Dual Degree Student**
-  - 🧠 B.Tech in **Computer Science & Engineering** @ **UCEK, JNTUK** — CGPA: **9.18 / 10**
-  - 📊 B.S in **Data Science** @ **IIT Madras** (Online) — CGPA: **7.93 / 10**
+  - 🎓 B.Tech (Honors) in Computer Science & Engineering @ UCEK, JNTUK — CGPA: 9.18/10 (2023-2027)
+  - 📊 B.S in **Data Science** @ **IIT Madras** (Online) — CGPA: **7.93 / 10** (Diploma Level)
   - 🏅 Currently pursuing **Honours in CSE** at JNTUK
 - 👩‍💻 Passionate about **Full Stack Development**, **AI-Powered Apps**, **RAG Systems**, and **MLOps**
 - 🤝 Open to collaborating on **Hackathons**, **Open Source**, and **Internships**
@@ -132,8 +132,7 @@
 - 💻 **Codess.Cafe Mentee** — selected from 2,000+ applicants (Women in Tech Community)
 - 📜 **SheFi Scholar — Cohort 13**
 - 👥 **Girl Representative**, Club of Computer Engineers — coordinated 65+ students for 7 months
-- 🐙 GitHub Badges: **Pull Shark** 🦈 · **Quick Draw** ⚡
-
+- 🏅 **GitHub Badges:** 🦈 Pull Shark · ⚡ Quickdraw · 🤝 Pair Extraordinaire · 🚀 YOLO
 ---
 
 ## 📜 Certifications
