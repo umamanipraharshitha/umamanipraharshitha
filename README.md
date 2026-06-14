@@ -132,7 +132,7 @@
 - 💻 **Codess.Cafe Mentee** — selected from 2,000+ applicants (Women in Tech Community)
 - 📜 **SheFi Scholar — Cohort 13**
 - 👥 **Girl Representative**, Club of Computer Engineers — coordinated 65+ students for 7 months
-- 🏅 **GitHub Badges:** 🦈 Pull Shark · ⚡ Quickdraw · 🤝 Pair Extraordinaire · 🚀 YOLO
+- 🏅 **GitHub Badges:** 🦈 Pull Shark · ⚡ Quickdraw · 🤝 Pair Extraordinaire · 🚀 YOLO  · 🧠 Galaxy Brain
 ---
 
 ## 📜 Certifications
