@@ -118,7 +118,6 @@
 | [**WhatsApp AI Reminders**](https://github.com/umamanipraharshitha/whatsapp_ai_reminders) | AI WhatsApp bot for smart reminders, scheduling, and natural language interaction with Redis-backed persistence. | Node.js · Express · Gemini API · Twilio API · Redis |
 | [**LeafLytic**](https://github.com/umamanipraharshitha/LeafLytic) | Deep learning system for plant leaf disease detection and classification using MobileNetV2. | Python · TensorFlow · MobileNetV2 · OpenCV |
 | [**WebScraperAI**](https://github.com/umamanipraharshitha/WebScraperAI) | Intelligent data scraper for structured web content extraction with clean data export. | Python · BeautifulSoup · Pandas · Requests |
-| [**Restaurant Management System**](https://github.com/umamanipraharshitha/Restaurant-Management-Aplication) | Full-featured system managing orders, menus, and reservations. | Node.js · Express · MongoDB · EJS · Bootstrap |
 | [**Parking Application**](https://github.com/umamanipraharshitha/24F1000289_MAD2_ParkingApp) | Smart app for real-time parking slot booking and management with Redis caching. | Vue.js · Flask · SQLite · Redis |
 
 > 🟩 Explore all my repositories [here →](https://github.com/umamanipraharshitha?tab=repositories)
