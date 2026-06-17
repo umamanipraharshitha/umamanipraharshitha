@@ -165,5 +165,8 @@
   <img src="https://komarev.com/ghpvc/?username=umamanipraharshitha&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umamanipraharshitha&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
   💻 <b>"Code. Create. Collaborate. Contribute."</b> 🚀
 </p>
