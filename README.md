@@ -8,10 +8,20 @@
   <b>Full Stack Developer • AI/ML Engineer • Dual Degree @ JNTUK + IIT Madras</b><br/>
   <em>"Exploring diverse domains of Computer Science to solve real-world problems."</em>
 </p>
-
 <p align="center">
   <a href="https://praharshitha.onrender.com/">🌐 Portfolio</a> •
   <a href="https://aplora.xyz">🔗 aplora.xyz</a>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/builtit">
+    <img src="https://img.shields.io/npm/v/builtit?style=for-the-badge&logo=npm" alt="npm version" />
+  </a>
+  
+</p>
+
+<p align="center">
+  <code>npx builtit</code>
 </p>
 
 ---
@@ -113,12 +123,9 @@
 | [**OCR Anomaly Detection — Document Intelligence Pipeline**](https://github.com/umamanipraharshitha/OCR_anomaly_detection) | AI-powered OCR/ICR document intelligence system with supervised ML classifier achieving **85% accuracy, F1 0.85, ROC AUC 0.89**; real-time confidence-scoring dashboard with human-in-the-loop feedback and MLOps retraining pipeline. | FastAPI · React · Firebase · Azure Cognitive Services · Pytesseract · Python |
 | [**AI Interview Automation Pipeline**](https://github.com/umamanipraharshitha/ai-interview-automation-pipeline) | End-to-end interview automation with ATS resume scoring, AI candidate evaluation, PDF report generation, and automated email delivery; Google Drive & Sheets APIs for scalable recruiter dashboards. | Flutter · FastAPI · Firebase · Gemini API · Google Drive/Sheets API |
 | [**RAG-Based Multi-Modal QA & Summarization System**](https://github.com/umamanipraharshitha/RAG-Based-Multi-Modal-QA-Summarization-System) | Production-grade RAG pipeline with multi-modal ingestion (PDF, DOCX, CSV, images + OCR); ChromaDB vector store for semantic search with reranking and prompt engineering for context-aware QA. | Python · FastAPI · ChromaDB · LangChain · Gemini API |
-| [**Career Guidance Roadmap Generator**](https://github.com/umamanipraharshitha/CareerGuidance_Roadmap_Generator) | AI-powered full-stack app generating personalized career roadmaps — **50+ active real-world users**; Firebase Auth + Firestore for real-time persistence, deployed on Render. | React · Node.js · Express · Firebase · Gemini API |
 | [**Autonomous RL System Optimizer**](https://github.com/umamanipraharshitha/Autonomous-RL-System-Optimizer) | Self-learning reinforcement learning system for automated parameter tuning and live performance optimization. | Python · PyTorch · Flask · React |
 | [**WhatsApp AI Reminders**](https://github.com/umamanipraharshitha/whatsapp_ai_reminders) | AI WhatsApp bot for smart reminders, scheduling, and natural language interaction with Redis-backed persistence. | Node.js · Express · Gemini API · Twilio API · Redis |
-| [**LeafLytic**](https://github.com/umamanipraharshitha/LeafLytic) | Deep learning system for plant leaf disease detection and classification using MobileNetV2. | Python · TensorFlow · MobileNetV2 · OpenCV |
 | [**WebScraperAI**](https://github.com/umamanipraharshitha/WebScraperAI) | Intelligent data scraper for structured web content extraction with clean data export. | Python · BeautifulSoup · Pandas · Requests |
-| [**Parking Application**](https://github.com/umamanipraharshitha/24F1000289_MAD2_ParkingApp) | Smart app for real-time parking slot booking and management with Redis caching. | Vue.js · Flask · SQLite · Redis |
 
 > 🟩 Explore all my repositories [here →](https://github.com/umamanipraharshitha?tab=repositories)
 
