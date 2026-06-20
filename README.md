@@ -17,7 +17,13 @@
   <a href="https://www.npmjs.com/package/builtit">
     <img src="https://img.shields.io/npm/v/builtit?style=for-the-badge&logo=npm" alt="npm version" />
   </a>
-  
+  <a href="https://www.npmjs.com/package/builtit">
+    <img src="https://img.shields.io/npm/dw/builtit?style=for-the-badge&color=green" alt="downloads" />
+  </a>
+  <a href="https://github.com/umamanipraharshitha/builtit/blob/main/LICENSE">
+    <img src="https://img.shields.io/npm/l/builtit?style=for-the-badge&color=brightgreen" alt="license" />
+  </a>
+  <img src="https://img.shields.io/badge/security-socket%20scanned-yellow?style=for-the-badge" alt="security" />
 </p>
 
 <p align="center">
