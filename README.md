@@ -2,7 +2,7 @@
   <img src="https://github.com/umamanipraharshitha/umamanipraharshitha/blob/main/WhatsApp%20Image%202025-10-02%20at%2019.37.05_95a4fee3.jpg" width="100%" alt="Banner Image"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#FCA61F;">UMA MANI PRAHARSHITHA MANGIPUDI</span> 🚀</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#FCA61F;">UMA MANI PRAHARSHITHA MANGIPUDI .</span> 🚀</h1>
 
 <p align="center">
   <b>Full Stack Developer • AI/ML Engineer • Dual Degree @ JNTUK + IIT Madras</b><br/>
