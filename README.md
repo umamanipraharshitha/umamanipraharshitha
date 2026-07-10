@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <a href="https://praharshitha.onrender.com/">🌐 Portfolio</a> •
-  <a href="www.makemyportfolio.co.in">🔗 view one of my work here</a>
+  <a href="https://www.makemyportfolio.co.in">🔗 view one of my work here</a>
 </p>
 
 <p align="center">
